@@ -5,7 +5,11 @@ How to use:
 
 ADD SCRIPT TO HEAD OF YOUR WEBSITE:
 
+If using downloaded version:
 <script src="fisher-yates.js"></script>
+
+Using CDN Version:
+<script src="https://cdn.jsdelivr.net/gh/AlturaDesigner/Fisher-Yates-JS@master/fisher%E2%80%93yates.js"></script>
 
 Create array:
 var newarray = [1,2,3,4,5,6,7,8,9,10];
